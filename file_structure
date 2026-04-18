@@ -3,6 +3,7 @@ tcp_server/
 ├── Makefile
 ├── src/
 │   ├── server.cpp
+│   ├── client.cpp
 │   ├── thread_pool.hpp
 │   ├── protocol.hpp
 │   └── shared_state.hpp
