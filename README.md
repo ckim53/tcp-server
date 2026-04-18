@@ -13,7 +13,7 @@ My implementation of a multithreaded TCP server built in C++ with CMake for buil
 ### Run the client executable in a separate terminal:
 ``./client``
 
-### Send a message from the client and see it received by the server and broadcasted to other clients created.
+### Send a message from the client and see it received by the server and broadcasted to other clients created!
 
 # Features in Action
 Concurrency: The server uses a thread pool to manage multiple clients simultaneously without blocking.
